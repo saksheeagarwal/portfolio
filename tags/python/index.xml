@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Sakshee Agarwal</title>
+    <link>https://saksheeagarwal.github.io/portfolio/tags/python/</link>
+    <description>Recent content in Python on Sakshee Agarwal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 08 Sep 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://saksheeagarwal.github.io/portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hindi text Comprehensibility</title>
+      <link>https://saksheeagarwal.github.io/portfolio/post/chapter-5/</link>
+      <pubDate>Wed, 08 Sep 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/post/chapter-5/</guid>
+      <description>Objective  Assess the quality of Hindi translation Check the comprehensibility of a Hindi translation  Scope This project partially addresses the translation checking bottleneck by creating a method that could be integrated into
+ A set of power tools for translation consultants, which will allow them to do their checking work more thoroughly and more consistently An early warning system for translators, which will alert them to obvious problems so they can address them earlier in the translation process An equalizer for administrators and strategists, which will allow them to compare and evaluate methodologies and products (e.</description>
+    </item>
+    
+    <item>
+      <title>Espoir - Mental Health App</title>
+      <link>https://saksheeagarwal.github.io/portfolio/post/project-1/</link>
+      <pubDate>Tue, 15 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/post/project-1/</guid>
+      <description>Check out the live App here!
+  GitHub Repository
+  Winner for the ECS Hackathon 2021
+  Background  A user-friendly Mental Health python application for companies to enhance employee welfare, by predicting employees at-risk of depression or anxiety. Designed to create a safe space for employees to deal with mental health issues, while also benefiting the company, making it a win-win situation for both! An employee can gauge their depression and anxiety levels, and follow one of the many paths we recommend as steps to move towards a healthier mind.</description>
+    </item>
+    
+  </channel>
+</rss>

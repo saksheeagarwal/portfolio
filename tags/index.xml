@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sakshee Agarwal</title>
+    <link>https://saksheeagarwal.github.io/portfolio/tags/</link>
+    <description>Recent content in Tags on Sakshee Agarwal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 08 Sep 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://saksheeagarwal.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python</title>
+      <link>https://saksheeagarwal.github.io/portfolio/tags/python/</link>
+      <pubDate>Wed, 08 Sep 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>https://saksheeagarwal.github.io/portfolio/tags/tensorflow/</link>
+      <pubDate>Wed, 08 Sep 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R programming</title>
+      <link>https://saksheeagarwal.github.io/portfolio/tags/r-programming/</link>
+      <pubDate>Thu, 12 Aug 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/tags/r-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rstudio</title>
+      <link>https://saksheeagarwal.github.io/portfolio/tags/rstudio/</link>
+      <pubDate>Thu, 12 Aug 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/tags/rstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shinyapps</title>
+      <link>https://saksheeagarwal.github.io/portfolio/tags/shinyapps/</link>
+      <pubDate>Thu, 12 Aug 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/tags/shinyapps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://saksheeagarwal.github.io/portfolio/tags/javascript/</link>
+      <pubDate>Tue, 15 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAS</title>
+      <link>https://saksheeagarwal.github.io/portfolio/tags/sas/</link>
+      <pubDate>Wed, 14 Apr 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/tags/sas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

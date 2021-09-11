@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAS on Sakshee Agarwal</title>
+    <link>https://saksheeagarwal.github.io/portfolio/tags/sas/</link>
+    <description>Recent content in SAS on Sakshee Agarwal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 14 Apr 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://saksheeagarwal.github.io/portfolio/tags/sas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bankruptcy Classification</title>
+      <link>https://saksheeagarwal.github.io/portfolio/post/chapter-6/</link>
+      <pubDate>Wed, 14 Apr 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/post/chapter-6/</guid>
+      <description>Objective  To predict the probability of a company going bankrupt.  Approach  Importing and preprocessing the data on SAS EM. Training various models on this dataset like like Decision tree, logistic regression, neural networks etc, to find the best fit.  Performance enhancement part of these models. We did this by tuning various parameters to optimize the models in order to decrease the misclassification rate and increase the score.</description>
+    </item>
+    
+  </channel>
+</rss>

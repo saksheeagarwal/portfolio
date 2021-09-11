@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rstudio on Sakshee Agarwal</title>
+    <link>https://saksheeagarwal.github.io/portfolio/tags/rstudio/</link>
+    <description>Recent content in Rstudio on Sakshee Agarwal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 12 Aug 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://saksheeagarwal.github.io/portfolio/tags/rstudio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Earnings Manipulation Prediction</title>
+      <link>https://saksheeagarwal.github.io/portfolio/post/chapter-4/</link>
+      <pubDate>Thu, 12 Aug 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/post/chapter-4/</guid>
+      <description>Check out the live App here!
+GitHub Repository
+Objective  Create a user friendly tool, that can accurately classify and predict which companies are more likely to manipulate their earnings based on publicly available data. This can be an is extremely powerful tool, for not only stakeholders and investors, but also for amateur investors, with little knowledge of finance, who are just looking to reduce their risk. Provide the user with an in-depth analysis of the company data of their interest, along with a background of the research and what each predictor variable could imply.</description>
+    </item>
+    
+  </channel>
+</rss>

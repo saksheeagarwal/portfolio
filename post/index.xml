@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sakshee Agarwal</title>
+    <link>https://saksheeagarwal.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Sakshee Agarwal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://saksheeagarwal.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hindi text Comprehensibility</title>
+      <link>https://saksheeagarwal.github.io/portfolio/post/chapter-5/</link>
+      <pubDate>Wed, 08 Sep 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/post/chapter-5/</guid>
+      <description>Objective  Assess the quality of Hindi translation Check the comprehensibility of a Hindi translation  Scope This project partially addresses the translation checking bottleneck by creating a method that could be integrated into
+ A set of power tools for translation consultants, which will allow them to do their checking work more thoroughly and more consistently An early warning system for translators, which will alert them to obvious problems so they can address them earlier in the translation process An equalizer for administrators and strategists, which will allow them to compare and evaluate methodologies and products (e.</description>
+    </item>
+    
+    <item>
+      <title>Earnings Manipulation Prediction</title>
+      <link>https://saksheeagarwal.github.io/portfolio/post/chapter-4/</link>
+      <pubDate>Thu, 12 Aug 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/post/chapter-4/</guid>
+      <description>Check out the live App here!
+GitHub Repository
+Objective  Create a user friendly tool, that can accurately classify and predict which companies are more likely to manipulate their earnings based on publicly available data. This can be an is extremely powerful tool, for not only stakeholders and investors, but also for amateur investors, with little knowledge of finance, who are just looking to reduce their risk. Provide the user with an in-depth analysis of the company data of their interest, along with a background of the research and what each predictor variable could imply.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis for Trading Strategies</title>
+      <link>https://saksheeagarwal.github.io/portfolio/post/chapter-2/</link>
+      <pubDate>Sat, 10 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/post/chapter-2/</guid>
+      <description>GitHub Repository
+Objective  To predict the market closing price based on twitter sentiment analysis. To create trading strategies for investors based on sentiment analysis.  Data  Scraped 300,000 labelled tweets for Apple, Tesla and Bitcoin from Stock Twits Sentiment for every Tweet labelled as ‘Bullish’ or ‘Bearish’.  Approach  Trained multiple deep learning models on our data to predict the sentiment of a tweet. Getting the average sentiment score for a day to predict the market for the next day  Results    </description>
+    </item>
+    
+    <item>
+      <title>Espoir - Mental Health App</title>
+      <link>https://saksheeagarwal.github.io/portfolio/post/project-1/</link>
+      <pubDate>Tue, 15 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/post/project-1/</guid>
+      <description>Check out the live App here!
+  GitHub Repository
+  Winner for the ECS Hackathon 2021
+  Background  A user-friendly Mental Health python application for companies to enhance employee welfare, by predicting employees at-risk of depression or anxiety. Designed to create a safe space for employees to deal with mental health issues, while also benefiting the company, making it a win-win situation for both! An employee can gauge their depression and anxiety levels, and follow one of the many paths we recommend as steps to move towards a healthier mind.</description>
+    </item>
+    
+    <item>
+      <title>Craigslist Spam Classification</title>
+      <link>https://saksheeagarwal.github.io/portfolio/post/chapter-3/</link>
+      <pubDate>Thu, 20 May 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/post/chapter-3/</guid>
+      <description>GitHub Repository
+Aligning with the aim of Craigslist to increase user satisfaction, we have created an authentication categorization model which could help Craigslist in giving the users an enriched experience on the website keeping everything simple. As the False negatives are more harmful for the company, we decided on evaluating the model on precision.
+Objectives  To create a model to filter spam advertisements Applying Data analysis concepts to solve the problem Enrich the user experience  Approach  Web-Sacraping Data Preprocessing Modeling Evaluation    </description>
+    </item>
+    
+    <item>
+      <title>Bankruptcy Classification</title>
+      <link>https://saksheeagarwal.github.io/portfolio/post/chapter-6/</link>
+      <pubDate>Wed, 14 Apr 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://saksheeagarwal.github.io/portfolio/post/chapter-6/</guid>
+      <description>Objective  To predict the probability of a company going bankrupt.  Approach  Importing and preprocessing the data on SAS EM. Training various models on this dataset like like Decision tree, logistic regression, neural networks etc, to find the best fit.  Performance enhancement part of these models. We did this by tuning various parameters to optimize the models in order to decrease the misclassification rate and increase the score.</description>
+    </item>
+    
+  </channel>
+</rss>
